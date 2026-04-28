@@ -18,15 +18,11 @@ ya le action = zérom.
 ya le action = zéromala.
 
 _________ akt po1.
-
+__
 ya le action po1 = assis (x minutes).
-
 ya le action po1 = debout (x minutes).
-
 ya le action po1 = douche.
-
 ya le action po1 = mange.
-
 ya le action po1 = marche (x minutes).
 
 _________ akt war.
