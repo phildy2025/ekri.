@@ -8,9 +8,9 @@ ya le action = fini.
 
 ya le action = j'espère tu va bien.
 
-ya le action = patience.
+ya le action = espoirapatience.
 
-ya le action = préparecouchage.
+ya le action = dodo.
 
 ya le action = pense.
 
@@ -40,10 +40,12 @@ ya le action = espoir.
 
 ya le action = ifo.
 
-ya le action po1 = assis 1 minute.
+ya le action po1 = assis (x minutes).
 
-ya le action po1 = debout 1 minute.
+ya le action po1 = debout (x minutes).
 
 ya le action po1 = douche.
 
 ya le action po1 = mange.
+
+ya le action po1 = marche (x minutes).
