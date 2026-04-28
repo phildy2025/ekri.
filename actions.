@@ -23,6 +23,8 @@ ya le action po1 = debout (x minutes).
 ya le action po1 = douche.
 ya le action po1 = mange.
 ya le action po1 = marche (x minutes).
+ya le action po1 = ablution.
+ya le action po1 = assis (x minutes).
 
 _________ akt war.
 __
