@@ -4,11 +4,9 @@ ya le action = débara.
 
 ya le action = dézolé.
 
-ya le action = dōh.
-
 ya le action = j'espère tu va bien.
 
-ya le action = mange.
+ya le action = patience.
 
 ya le action = préparecouchage.
 
@@ -39,3 +37,11 @@ ya le action = applaudir.
 ya le action = espoir.
 
 ya le action = ifo.
+
+ya le action po1 = assis 1 minute.
+
+ya le action po1 = debout 1 minute.
+
+ya le action po1 = douche.
+
+ya le action po1 = mange.
