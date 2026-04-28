@@ -21,6 +21,7 @@ __
 ya le action po1 = assis (x minutes).
 ya le action po1 = debout (x minutes).
 ya le action po1 = douche.
+ya le action po1 = hand.
 ya le action po1 = head.
 ya le action po1 = mange.
 ya le action po1 = marche (x minutes).
@@ -31,6 +32,7 @@ _________ akt war.
 __
 ya le action war = cia.
 ya le action war = denounce.
+ya le action war = fire song.
 
 _________ akt amour.
 __
