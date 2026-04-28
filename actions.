@@ -1,14 +1,8 @@
-ya le action = 1 minute considération.
+_________ akt.
 
 ya le action = débara.
 
-ya le action = dézolé.
-
 ya le action = fini.
-
-ya le action = j'espère tu va bien.
-
-ya le action = espoirapatience.
 
 ya le action = dodo.
 
@@ -22,8 +16,6 @@ ya le action = reau.
 
 ya le action = serrure.
 
-ya le action = sos.
-
 ya le action = toalèt.
 
 ya le action = zérom.
@@ -32,13 +24,11 @@ ya le action = zéromala.
 
 ya le action = afèr.
 
-ya le action = alo.
-
-ya le action = applaudir.
-
 ya le action = espoir.
 
 ya le action = ifo.
+
+_________ akt po1.
 
 ya le action po1 = assis (x minutes).
 
@@ -49,3 +39,19 @@ ya le action po1 = douche.
 ya le action po1 = mange.
 
 ya le action po1 = marche (x minutes).
+
+_________ akt amour.
+
+ya le action amour = 1 minute pour les victimes.
+
+ya le action amour = dézolé !
+
+ya le action amour = j'espère tu va bien !
+
+ya le action amour = sos !
+
+ya le action amour = alo !
+
+ya le action amour = applaudir !
+
+ya le action amour = espoirapatience !
