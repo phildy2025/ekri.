@@ -19,9 +19,9 @@ ya le action = zérom (1 fois) ou zéromala (42 fois ou beaucoup fois).
 _________ akt po1.
 __
 ya le action po1 = assis (x minutes).
-ya le action po1 = cou.
 ya le action po1 = debout (x minutes).
 ya le action po1 = douche.
+ya le action po1 = head.
 ya le action po1 = mange.
 ya le action po1 = marche (x minutes).
 ya le action po1 = ablution.
