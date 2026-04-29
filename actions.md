@@ -49,6 +49,6 @@
 * ya le action amour = sos.
 * ya le action amour = alo.
 * ya le action amour = applaudir.
-* ya le action amour = espoirapatience.
+* ya le action amour = espoirapatience_humain.
 * ya le action amour = espoirapatience_loading.
 * ya le action amour = espoirapatience_miroir.
