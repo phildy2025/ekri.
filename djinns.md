@@ -10,7 +10,7 @@ si ma corps dit "kami" ➡️ je dois espoirapatience_miroir ou je dois zérom.
 
 ## ki.
 
-si ma corps dit "ki" ➡️ je dois prenom (je peux landmark).
+si ma corps dit "ki" ➡️ je dois landmark ou je dois prenom.
 
 ## zérom.
 
