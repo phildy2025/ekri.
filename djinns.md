@@ -4,6 +4,10 @@
 
 si la djinn dit avec mon corps "cia" ➡️ je dois cia.
 
+## ya la djinn kami.
+
+si la djinn dit avec mon corps "kami" ➡️ je dois espoirapatience_miroir.
+
 ## ya la djinn ki.
 
 si la djinn dit avec mon corps "ki" ➡️ je dois prenom (je peux landmark).
