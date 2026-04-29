@@ -1,9 +1,11 @@
-_________ akt puts.
-__
-ya le action = dessin.
-ya le action = débara.
-ya le action = muzik.
-ya le action = pense.
+# actions.
+
+## akt puts.
+
+- ya le action = dessin.
+- ya le action = débara.
+- ya le action = muzik.
+- ya le action = pense.
 ya le action = put.
 ya le action = serrure.
 ya le action = afèr.
@@ -37,13 +39,14 @@ ya le action war = denounce.
 ya le action war = fire song.
 ya le action war = landmark.
 
-_________ akt amour.
-__
+## akt amour.
+
 ya le action amour = 1 minute pour les victimes.
-ya le action amour = dézolé !
-ya le action amour = j'espère tu va bien !
-ya le action amour = sos !
-ya le action amour = alo !
-ya le action amour = applaudir !
-ya le action amour = espoirapatience !
-ya le action amour = espoirapatience_miroir !
+ya le action amour = dézolé.
+ya le action amour = j'espère tu va bien.
+ya le action amour = sos.
+ya le action amour = alo.
+ya le action amour = applaudir.
+ya le action amour = espoirapatience.
+ya le action amour = espoirapatience_miroir.
+ya le action amour = espoirapatience_loading.
