@@ -31,6 +31,7 @@
 ## akt santé.
 
 * ya le action = dodo.
+* ya le action = landmark.
 * ya le action = prenom.
 * ya le action = po1.
 * ya le action = reau.
