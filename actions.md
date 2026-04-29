@@ -4,6 +4,7 @@
 
 * ya le action po1 = big ablution.
 * ya le action po1 = debout (x minutes).
+* ya le action po1 = couchage (x minutes).
 * ya le action po1 = douche.
 * ya le action po1 = gakada.
 * ya le action po1 = hand.
@@ -40,6 +41,7 @@
 
 ## akt wala.
 
+* ya le action wala = espoirapatience_couchage.
 * ya le action wala = espoirapatience_humain.
 * ya le action wala = espoirapatience_loading.
 * ya le action wala = espoirapatience_miroir.
