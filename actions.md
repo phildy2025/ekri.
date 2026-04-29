@@ -30,7 +30,7 @@
 * ya le action = po1.
 * ya le action = reau.
 * ya le action = toalèt.
-* ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
+* ya le action = zérom (1 fois) ou zéromala (42 fois ou 3 fois).
 
 ## akt war.
 
@@ -38,7 +38,7 @@
 * ya le action war = denounce.
 * ya le action war = fire song.
 * ya le action war = landmark.
-* ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
+* ya le action = zérom (1 fois) ou zéromala (42 fois ou 3 fois).
 
 ## akt amour.
 
