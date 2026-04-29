@@ -19,3 +19,7 @@ si ma corps dit "zérom" ➡️ je dois zérom.
 ## zéromala.
 
 si ma corps dit "zéromala" ➡️ je dois zéromala.
+
+## a.
+
+si ma corps dit "a" ➡️ je dois méfi.
