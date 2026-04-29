@@ -6,7 +6,7 @@ si la djinn dit avec mon corps "cia" ➡️ je dois cia.
 
 ## ya la djinn kami.
 
-si la djinn dit avec mon corps "kami" ➡️ je dois espoirapatience_miroir.
+si la djinn dit avec mon corps "kami" ➡️ je dois espoirapatience_miroir ou je dois zérom.
 
 ## ya la djinn ki.
 
