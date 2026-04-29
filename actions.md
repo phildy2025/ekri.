@@ -38,6 +38,12 @@
 * ya le action = toalèt.
 * ya le action = zérom (1 fois) ou zéromala (42 fois ou 3 fois).
 
+## akt wala.
+
+* ya le action wala = espoirapatience_humain.
+* ya le action wala = espoirapatience_loading.
+* ya le action wala = espoirapatience_miroir.
+
 ## akt war.
 
 * ya le action war = cia.
@@ -55,6 +61,3 @@
 * ya le action amour = sos.
 * ya le action amour = alo.
 * ya le action amour = applaudir.
-* ya le action amour = espoirapatience_humain.
-* ya le action amour = espoirapatience_loading.
-* ya le action amour = espoirapatience_miroir.
