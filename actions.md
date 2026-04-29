@@ -1,5 +1,16 @@
 # actions.
 
+## akt po1.
+
+* ya le action po1 = debout (x minutes).
+* ya le action po1 = douche.
+* ya le action po1 = hand.
+* ya le action po1 = head.
+* ya le action po1 = mange.
+* ya le action po1 = marche (x minutes).
+* ya le action po1 = ablution.
+* ya le action po1 = assis (x minutes).
+
 ## akt puts.
 
 * ya le action = dessin.
@@ -12,25 +23,14 @@
 * ya le action = espoir.
 * ya le action = ifo.
 
-_________ akt santé.
-__
-ya le action = dodo.
-ya le action = prenom.
-ya le action = po1.
-ya le action = reau.
-ya le action = toalèt.
-ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
+## akt santé.
 
-## akt po1.
-
-* ya le action po1 = debout (x minutes).
-* ya le action po1 = douche.
-* ya le action po1 = hand.
-* ya le action po1 = head.
-* ya le action po1 = mange.
-* ya le action po1 = marche (x minutes).
-* ya le action po1 = ablution.
-* ya le action po1 = assis (x minutes).
+* ya le action = dodo.
+* ya le action = prenom.
+* ya le action = po1.
+* ya le action = reau.
+* ya le action = toalèt.
+* ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
 
 ## akt war.
 
@@ -41,12 +41,12 @@ ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
 
 ## akt amour.
 
-ya le action amour = 1 minute pour les victimes.
-ya le action amour = dézolé.
-ya le action amour = j'espère tu va bien.
-ya le action amour = sos.
-ya le action amour = alo.
-ya le action amour = applaudir.
-ya le action amour = espoirapatience.
-ya le action amour = espoirapatience_miroir.
-ya le action amour = espoirapatience_loading.
+* ya le action amour = 1 minute pour les victimes.
+* ya le action amour = dézolé.
+* ya le action amour = j'espère tu va bien.
+* ya le action amour = sos.
+* ya le action amour = alo.
+* ya le action amour = applaudir.
+* ya le action amour = espoirapatience.
+* ya le action amour = espoirapatience_loading.
+* ya le action amour = espoirapatience_miroir.
