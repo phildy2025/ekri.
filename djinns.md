@@ -1,6 +1,6 @@
 # djinns (les aliens).
 
-[qu'est-ce qu'un djinn ?]("need_help_mayday_sos").
+[qu'est-ce qu'un djinn ?]("need_help_mayday_sos")
 
 ## cia.
 
