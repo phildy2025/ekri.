@@ -1,21 +1,23 @@
 # djinns (les aliens).
 
+[qu'est-ce qu'un djinn ?]("need_help_mayday_sos").
+
 ## cia.
 
-si la djinn dit avec mon corps "cia" ➡️ je dois cia.
+si la djinn dit "cia" ➡️ je dois cia.
 
 ## kami.
 
-si la djinn dit avec mon corps "kami" ➡️ je dois espoirapatience_miroir ou je dois zérom.
+si la djinn dit "kami" ➡️ je dois espoirapatience_miroir ou je dois zérom.
 
 ## ki.
 
-si la djinn dit avec mon corps "ki" ➡️ je dois prenom (je peux landmark).
+si la djinn dit "ki" ➡️ je dois prenom (je peux landmark).
 
 ## zérom.
 
-si la djinn dit avec mon corps "zérom" ➡️ je dois zérom.
+si la djinn dit "zérom" ➡️ je dois zérom.
 
 ## zéromala.
 
-si la djinn dit avec mon corps "zéromala" ➡️ je dois zéromala.
+si la djinn dit "zéromala" ➡️ je dois zéromala.
