@@ -20,6 +20,6 @@ si ma corps dit "zérom" ➡️ je dois zérom.
 
 si ma corps dit "zéromala" ➡️ je dois zéromala.
 
-## a.
+## prenom.
 
-si ma corps dit "a" ➡️ je dois méfiance.
+si ma corps dit ma prenom ➡️ je dois méfiance.
