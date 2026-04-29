@@ -6,7 +6,7 @@ si ma corps dit "cia" ➡️ je dois cia.
 
 ## kami.
 
-si ma corps dit "kami" ➡️ je dois espoirapatience_miroir ou je dois zérom.
+si ma corps dit "kami" ➡️ je dois zérom ou je dois espoirapatience_miroir.
 
 ## ki.
 
