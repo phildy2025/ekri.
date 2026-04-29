@@ -2,6 +2,7 @@
 
 ## akt po1.
 
+* ya le action po1 = big ablution.
 * ya le action po1 = debout (x minutes).
 * ya le action po1 = douche.
 * ya le action po1 = hand.
