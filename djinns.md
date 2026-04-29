@@ -1,4 +1,4 @@
-# djinns (les aliens).
+# djinns.
 
 ## cia.
 
