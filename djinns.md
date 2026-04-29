@@ -1,7 +1,5 @@
 # djinns (les aliens).
 
-[qu'est-ce qu'un djinn ?]("need_help_mayday_sos")
-
 ## cia.
 
 si la djinn dit "cia" ➡️ je dois cia.
