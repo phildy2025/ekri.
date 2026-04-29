@@ -1,4 +1,4 @@
-# djinns officiels (aliens & humains).
+# djinns officiels (humains & aliens).
 
 ## ya la djinn cia.
 
