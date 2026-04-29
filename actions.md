@@ -44,7 +44,7 @@
 * ya le action wala = patience_couchage.
 * ya le action wala = patience_humain.
 * ya le action wala = patience_loading.
-* ya le action wala = patience_miroir.
+* ya le action wala = patience_miroir_kami.
 
 ## akt war.
 
