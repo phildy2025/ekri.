@@ -49,6 +49,7 @@
 ## akt war.
 
 * ya le action war = cia.
+* ya le action war = dentroa.
 * ya le action war = denounce.
 * ya le action war = fire song.
 * ya le action war = kami.
