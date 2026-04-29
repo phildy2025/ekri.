@@ -6,7 +6,7 @@ si la djinn dit avec mon corps "cia" ➡️ je dois cia.
 
 ## ya la djinn ki.
 
-si la djinn dit avec mon corps "ki" ➡️ je dois prenom.
+si la djinn dit avec mon corps "ki" ➡️ je dois prenom (je peux landmark).
 
 ## ya la djinn zérom.
 
