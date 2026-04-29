@@ -2,15 +2,15 @@
 
 ## akt puts.
 
-• ya le action = dessin.
-• ya le action = débara.
-• ya le action = muzik.
-• ya le action = pense.
-ya le action = put.
-ya le action = serrure.
-ya le action = afèr.
-ya le action = espoir.
-ya le action = ifo.
+* ya le action = dessin.
+* ya le action = débara.
+* ya le action = muzik.
+* ya le action = pense.
+* ya le action = put.
+* ya le action = serrure.
+* ya le action = afèr.
+* ya le action = espoir.
+* ya le action = ifo.
 
 _________ akt santé.
 __
@@ -23,21 +23,21 @@ ya le action = zérom (1 fois) ou zéromala (42 fois ou au moins 2 fois).
 
 ## akt po1.
 
-- ya le action po1 = debout (x minutes).
-- ya le action po1 = douche.
-- ya le action po1 = hand.
-- ya le action po1 = head.
-- ya le action po1 = mange.
-- ya le action po1 = marche (x minutes).
-- ya le action po1 = ablution.
-- ya le action po1 = assis (x minutes).
+* ya le action po1 = debout (x minutes).
+* ya le action po1 = douche.
+* ya le action po1 = hand.
+* ya le action po1 = head.
+* ya le action po1 = mange.
+* ya le action po1 = marche (x minutes).
+* ya le action po1 = ablution.
+* ya le action po1 = assis (x minutes).
 
-_________ akt war.
-__
-ya le action war = cia.
-ya le action war = denounce.
-ya le action war = fire song.
-ya le action war = landmark.
+## akt war.
+
+* ya le action war = cia.
+* ya le action war = denounce.
+* ya le action war = fire song.
+* ya le action war = landmark.
 
 ## akt amour.
 
