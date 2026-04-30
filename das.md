@@ -31,6 +31,7 @@
 
 ## émotions.
 
+* ça va.
 * ça va ?
 * ça va bien.
 * ça va moyen.
