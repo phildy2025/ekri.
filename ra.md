@@ -22,7 +22,7 @@
 * ma yeux peux acid particulefine.
 * ma oreille peux acid particulefine.
 * si climat_bon ➡️ je peux va à extérieur.
-* si climat_froid ➡️ je peux boaro.
+* si climat_froid ➡️ je peux boar ou je peux boaro.
 * si climat_froid ➡️ je peux macajkör.
 * si climat_froid ➡️ je peux mēj.
 * si climat_froid ➡️ je peux va à domicil.
