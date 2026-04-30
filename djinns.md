@@ -12,6 +12,10 @@ si ma corps dit "kami" ➡️ je dois zérom ou je dois espoirapatience_miroir.
 
 si ma corps dit "ki" ➡️ je dois landmark ou je dois prenom ou je dois zérom.
 
+## prenom.
+
+si ma corps dit ma prenom ➡️ je dois méfiance.
+
 ## zérom.
 
 si ma corps dit "zérom" ➡️ je dois zérom.
@@ -20,6 +24,6 @@ si ma corps dit "zérom" ➡️ je dois zérom.
 
 si ma corps dit "zéromala" ➡️ je dois zéromala.
 
-## prenom.
+## zérov.
 
-si ma corps dit ma prenom ➡️ je dois méfiance.
+si ma corps dit "zérov" ➡️ je dois zérov.
