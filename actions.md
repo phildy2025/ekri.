@@ -12,6 +12,7 @@
 * ya le action po1 = jila.
 * ya le action po1 = mange.
 * ya le action po1 = marche (x minutes).
+* ya le action po1 = pa1 (x minutes).
 * ya le action po1 = ablution.
 * ya le action po1 = assis (x minutes).
 * ya le action po1 = ēlèv.
