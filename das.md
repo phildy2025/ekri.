@@ -4,14 +4,6 @@
 
 [•••] ➡️ ékri.
 
-## drague.
-
-* bzz.
-* bonjour.
-* je m'appelle [•••].
-* èckuzmoa.
-* èckuzémoa.
-
 ## malentendu.
 
 * commment ?
@@ -24,9 +16,15 @@
 
 ## vie.
 
+* bzz.
+* bonjour.
+* èckuzmoa.
+* èckuzémoa.
 * je [•••].
+* je m'appelle [•••].
 * je va [•••].
 * je va [•••] plutar.
+* mon ami.
 * à plutar.
 * ok.
 
