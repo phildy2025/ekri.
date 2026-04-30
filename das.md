@@ -5,47 +5,36 @@
 [•••] ➡️ ékri.
 
 ## drague.
-ya la das = bzz !
-ya la das = bonjour !
+
+* bzz.
+* bonjour.
+* je m'appelle [•••].
+* èckuzmoa.
+* èckuzémoa.
 
 ## malentendu.
 
 * commment ?
+* désolé.
 * j'arrive.
 * je ne sais pas quoi dire.
+* stop.
+* attention.
+* occupé.
+
+## vie.
+
+* je [•••].
+* je va [•••].
+* je va [•••] plutar.
+* à plutar.
+* ok.
 
 ## émotions.
 
 * ça va ?
 * ça va bien.
 * ça va moyen.
+* merci.
 * nan.
 * non.
-
-ya la das = désolé !
-
-ya la das = je [•••] !
-
-ya la das = je m'appelle [•••] !
-
-ya la das = je ne sais pas quoi dire !
-
-ya la das = je va [•••] !
-
-ya la das = je va [•••] plutar !
-
-ya la das = merci !
-
-ya la das = stop !
-
-ya la das = attention !
-
-ya la das = à plutar !
-
-ya la das = èckuzemoa !
-
-ya la das = èckuzémoa !
-
-ya la das = occupé !
-
-ya la das = ok !
