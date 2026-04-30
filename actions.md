@@ -43,10 +43,10 @@
 
 ## akt wala.
 
-* ya le action wala = patience_couchage.
-* ya le action wala = patience_humain.
-* ya le action wala = patience_loading.
-* ya le action wala = patience_miroir_kami.
+* ya le action wala = patience_attend_couchage.
+* ya le action wala = patience_attend_humain.
+* ya le action wala = patience_attend_loading.
+* ya le action wala = patience_attend_miroir_kami.
 
 ## akt war.
 
