@@ -18,6 +18,7 @@
 * ma corps peux acid particulefine.
 * ma corps peux acid odeur.
 * ma nez peux acid particulefine.
+* ma nez peux acid odeur.
 * ma yeux peux acid particulefine.
 * ma oreille peux acid particulefine.
 * si climat_bon ➡️ je peux va à extérieur.
