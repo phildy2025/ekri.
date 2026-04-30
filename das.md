@@ -4,6 +4,7 @@
 
 * [•••] ➡️ ékri.
 * j'espère tu va bien.
+* présent.
 
 ## malentendu.
 
@@ -11,6 +12,7 @@
 * désolé.
 * j'arrive.
 * je ne sais pas quoi dire.
+* pitié.
 * stop.
 * attention.
 * occupé.
@@ -23,6 +25,7 @@
 * èckuzémoa.
 * je [•••].
 * je m'appelle [•••].
+* je va.
 * je va [•••].
 * je va [•••] plutar.
 * mon ami.
