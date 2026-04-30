@@ -11,6 +11,7 @@
 * je peux lire mais je peux lirevite.
 * je peux marche mais je peux marchevite.
 * je ne dois pas comparer.
+* je ne dois pas cunnilingus.
 * je ne dois pas mange miel.
 * je ne dois pas regardcornée.
 * je ne dois pas regardlumière.
