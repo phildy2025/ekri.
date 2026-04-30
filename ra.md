@@ -2,9 +2,9 @@
 
 ## wala.
 
-* ya la ra = cia ➡️ cētroa das globalvs kalēdrié provèrbs po1s rapèls toki vreals vèrbs adjèktifs advèrbs alfabè amoa itèms.
-* ya la ra = 00:00 ➡️ je dois cia.
-* ya la ra = 12:00 ➡️ je dois cia.
+* cia ➡️ cētroa das globalvs kalēdrié provèrbs ra toki vreals vèrbs actions adjèktifs alfabè amoa itèms.
+* 00:00 ➡️ je dois cia.
+* 12:00 ➡️ je dois cia.
 
 ## vie.
 
