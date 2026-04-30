@@ -14,7 +14,9 @@
 * kōpo1ga.
 * mange.
 * marche (x minutes).
+* nêftroat.
 * pa1 (x minutes).
+* troat.
 * ablution.
 * assis (x minutes).
 * ēlèv.
