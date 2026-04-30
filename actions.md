@@ -10,6 +10,7 @@
 * ya le action po1 = hand.
 * ya le action po1 = head.
 * ya le action po1 = jila.
+* ya le action po1 = kōpo1ga.
 * ya le action po1 = mange.
 * ya le action po1 = marche (x minutes).
 * ya le action po1 = pa1 (x minutes).
