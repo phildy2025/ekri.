@@ -1,18 +1,28 @@
-ya la das = [•••] (ékri).
+# das.
+
+## configuration.
+
+* ya la das = [•••] (ékri).
+
+## drague.
 ya la das = bzz !
 ya la das = bonjour !
-ya la das = comment ?
-ya la das = ça va bien ?
 
-ya la das = ça va moyen !
+## malentendu.
 
-ya la das = ça va nan !
+* commment ?
+* j'arrive.
+* je ne sais pas quoi dire.
 
-ya la das = ça va non !
+## émotions.
+
+* ça va ?
+* ça va bien.
+* ça va moyen.
+* nan.
+* non.
 
 ya la das = désolé !
-
-ya la das = j'arrive !
 
 ya la das = je [•••] !
 
