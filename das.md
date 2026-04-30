@@ -2,7 +2,8 @@
 
 ## configuration.
 
-[•••] ➡️ ékri.
+* [•••] ➡️ ékri.
+* j'espère tu va bien.
 
 ## malentendu.
 
