@@ -1,6 +1,6 @@
 # actions.
 
-## actions po1.
+## po1.
 
 * big ablution.
 * boar ou boaro.
@@ -8,29 +8,29 @@
 * couchage (x minutes).
 * douche.
 * gakada.
-* ya le action po1 = hand.
-* ya le action po1 = head.
-* ya le action po1 = jila.
-* ya le action po1 = kōpo1ga.
-* ya le action po1 = mange.
-* ya le action po1 = marche (x minutes).
-* ya le action po1 = pa1 (x minutes).
-* ya le action po1 = ablution.
-* ya le action po1 = assis (x minutes).
-* ya le action po1 = ēlèv.
+* hand.
+* head.
+* jila.
+* kōpo1ga.
+* mange.
+* marche (x minutes).
+* pa1 (x minutes).
+* ablution.
+* assis (x minutes).
+* ēlèv.
 
-## akt puts.
+## puts.
 
-* ya le action = dessin.
-* ya le action = débara.
-* ya le action = kami.
-* ya le action = muzik.
-* ya le action = pense.
-* ya le action = put.
-* ya le action = serrure.
-* ya le action = afèr.
-* ya le action = espoir.
-* ya le action = ifo.
+* dessin.
+* débara.
+* kami.
+* muzik.
+* pense.
+* put.
+* serrure.
+* afèr.
+* espoir.
+* ifo.
 
 ## akt santé.
 
