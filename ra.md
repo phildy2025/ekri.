@@ -8,21 +8,23 @@
 
 _________
 
-ya la ra = je peux marche mais je peux marchvite.
-ya la ra = je ne dois pas mange miel.
-ya la ra = je ne dois pas regardlumièr.
-ya la ra = ma bōh peux acid petibèt.
-ya la ra = ma corps peux acid petibèt.
-ya la ra = ma corps peux acid odeur.
-ya la ra = ma né peux acid petibèt.
-ya la ra = ma ye peux acid petibèt.
-ya la ra = ma orèy peux acid petibèt.
-ya la ra = si climat_froid ➡️ je peux boaro.
-ya la ra = si climat_froid ➡️ je peux macajkör.
-ya la ra = si climat_froid ➡️ je peux mēj.
-ya la ra = si climat_froid ➡️ je peux va à domicil.
-ya la ra = si j'ai kōrbatur ➡️ je peux kôprèc.
-ya la ra = si j'ai kōrbatur ➡️ je peux mackōr.
-ya la ra = si j'ai kōrbatur ➡️ je peux po1.
-ya la ra = attention (grat visage).
-ya la ra = attention (main stylo visage).
+* je peux lire mais je peux lirevite.
+* je peux marche mais je peux marchevite.
+* je ne dois pas mange miel.
+* je ne dois pas regardlumièr.
+* ma bōh peux acid petibèt.
+* ma corps peux acid petibèt.
+* ma corps peux acid odeur.
+* ma né peux acid petibèt.
+* ma ye peux acid petibèt.
+* ma orèy peux acid petibèt.
+* si climat_bon ➡️ je peux va à extérieur.
+* si climat_froid ➡️ je peux boaro.
+* si climat_froid ➡️ je peux macajkör.
+* si climat_froid ➡️ je peux mēj.
+* si climat_froid ➡️ je peux va à domicil.
+* si j'ai kōrbatur ➡️ je peux kôprèc.
+* si j'ai kōrbatur ➡️ je peux mackōr.
+* si j'ai kōrbatur ➡️ je peux po1.
+* attention (grat visage).
+* attention (main stylo visage).
