@@ -14,12 +14,12 @@
 * je ne dois pas mange miel.
 * je ne dois pas regardcornée.
 * je ne dois pas regardlumière.
-* ma bōh peux acid particulefine.
+* ma bouche peux acid particulefine.
 * ma corps peux acid particulefine.
 * ma corps peux acid odeur.
-* ma né peux acid particulefine.
-* ma ye peux acid particulefine.
-* ma orèy peux acid particulefine.
+* ma nez peux acid particulefine.
+* ma yeux peux acid particulefine.
+* ma oreille peux acid particulefine.
 * si climat_bon ➡️ je peux va à extérieur.
 * si climat_froid ➡️ je peux boaro.
 * si climat_froid ➡️ je peux macajkör.
