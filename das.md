@@ -38,6 +38,7 @@
 * ça va ?
 * ça va bien.
 * ça va moyen.
+* je veux bien.
 * merci.
 * nan.
 * non.
