@@ -1,12 +1,13 @@
 # actions.
 
-## akt po1.
+## actions po1.
 
-* ya le action po1 = big ablution.
-* ya le action po1 = debout (x minutes).
-* ya le action po1 = couchage (x minutes).
-* ya le action po1 = douche.
-* ya le action po1 = gakada.
+* big ablution.
+* boar ou boaro.
+* debout (x minutes).
+* couchage (x minutes).
+* douche.
+* gakada.
 * ya le action po1 = hand.
 * ya le action po1 = head.
 * ya le action po1 = jila.
