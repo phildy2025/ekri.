@@ -2,7 +2,7 @@
 
 ## configuration.
 
-* ya la das = [•••] (ékri).
+[•••] ➡️ ékri.
 
 ## drague.
 ya la das = bzz !
