@@ -34,20 +34,21 @@
 
 ## akt santé.
 
-* ya le action = dodo.
-* ya le action = landmark.
-* ya le action = prenom.
-* ya le action = po1.
-* ya le action = reau.
-* ya le action = toalèt.
-* ya le action = zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
+* dodo.
+* landmark.
+* po1.
+* reau.
+* toalèt.
+* zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
 
-## akt wala.
+## wala.
 
-* ya le action wala = patience_attend_couchage.
-* ya le action wala = patience_attend_humain.
-* ya le action wala = patience_attend_loading.
-* ya le action wala = patience_attend_miroir_kami.
+* patience_attend_debout.
+* patience_attend_couchage.
+* patience_attend_humain.
+* patience_attend_loading.
+* patience_attend_miroir_kami.
+* patience_attend_assis.
 
 ## akt war.
 
