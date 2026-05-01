@@ -1,6 +1,7 @@
 # globalvs.
 
 * globalv bêtise.
+* globalv calomni.
 * globalv frizjo1.
 * globalv frizjōr.
 * globalv fiesta.
