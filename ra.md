@@ -26,7 +26,7 @@
 * si climat_bon ➡️ je peux va à extérieur.
 * si climat_froid ➡️ je peux boar ou je peux boaro.
 * si climat_froid ➡️ je peux macajkör.
-* si climat_froid ➡️ je peux mēj.
+* si climat_froid ➡️ je peux mange.
 * si climat_froid ➡️ je peux va à domicil.
 * si j'ai kōrbatur ➡️ je peux kôprèc.
 * si j'ai kōrbatur ➡️ je peux mackōr.
