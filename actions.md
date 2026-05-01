@@ -12,6 +12,7 @@
 * head.
 * jila.
 * kōpo1ga.
+* libre.
 * mainblution.
 * mange.
 * marche (x minutes).
