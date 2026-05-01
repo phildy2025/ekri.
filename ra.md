@@ -33,3 +33,4 @@
 * si j'ai kōrbatur ➡️ je peux po1.
 * attention (grat visage).
 * attention (main stylo visage).
+* attention (yeux zérom zéromala zérov).
