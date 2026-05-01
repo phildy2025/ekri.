@@ -63,6 +63,11 @@
 * méfiance.
 * zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
 
+## war z.
+
+* la po1 sur la i.
+* une_calomni_ki.
+
 ## amour.
 
 * 1 minute pour les victimes.
