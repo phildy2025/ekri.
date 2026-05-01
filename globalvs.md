@@ -10,5 +10,6 @@
 * globalv kalēdriémarkêr.
 * globalv ki.
 * globalv po1.
+* globalv secret.
 * globalv artop1.
 * globalv ancrage.
