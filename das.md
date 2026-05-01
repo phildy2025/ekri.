@@ -38,9 +38,9 @@
 
 ## émotions.
 
-* ça va.
 * ça va ?
-* ça va bien.
+* ça va bien merci.
+* ça va merci.
 * ça va moyen.
 * nan.
 * non.
