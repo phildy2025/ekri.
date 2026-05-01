@@ -30,6 +30,7 @@
 * je va.
 * je va [•••].
 * je va [•••] plutar.
+* merci.
 * mon ami.
 * à plutar.
 * ok.
@@ -41,6 +42,5 @@
 * ça va ?
 * ça va bien.
 * ça va moyen.
-* merci.
 * nan.
 * non.
