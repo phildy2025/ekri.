@@ -27,7 +27,7 @@
 * dessin.
 * débara.
 * grat.
-* kami.
+* ka.
 * muzik.
 * pense.
 * put.
@@ -51,7 +51,7 @@
 * patience_attend_couchage.
 * patience_attend_humain.
 * patience_attend_loading.
-* patience_attend_kami_miroir.
+* patience_attend_ka_miroir.
 * patience_attend_assis.
 
 ## war.
@@ -60,7 +60,7 @@
 * dentroa.
 * denounce.
 * fire song.
-* kami.
+* ka.
 * landmark.
 * méfiance.
 * zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
@@ -68,7 +68,7 @@
 ## war z.
 
 * diablot1.
-* k1.
+* k1 (attention).
 * ki.
 * une_calomni_ki.
 
