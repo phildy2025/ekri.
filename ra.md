@@ -15,6 +15,7 @@
 * je ne dois pas mange miel.
 * je ne dois pas regardcornée.
 * je ne dois pas regardlumière.
+* je ne dois pas anulingus.
 * ma bouche peux acid particulefine.
 * ma corps peux acid particulefine.
 * ma corps peux acid odeur.
