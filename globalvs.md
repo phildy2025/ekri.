@@ -6,6 +6,7 @@
 * globalv globalvs.
 * globalv kalēdrié.
 * globalv kalēdriémarkêr.
+* globalv ki.
 * globalv po1.
 * globalv artop1.
 * globalv ancrage.
