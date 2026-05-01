@@ -50,7 +50,7 @@
 * patience_attend_couchage.
 * patience_attend_humain.
 * patience_attend_loading.
-* patience_attend_miroir_kami.
+* patience_attend_kami_miroir.
 * patience_attend_assis.
 
 ## war.
