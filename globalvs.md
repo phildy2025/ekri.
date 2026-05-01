@@ -2,6 +2,7 @@
 
 * globalv bêtise.
 * globalv calomni.
+* globalv comparer.
 * globalv frizjo1.
 * globalv frizjōr.
 * globalv fiesta.
