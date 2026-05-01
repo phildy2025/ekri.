@@ -13,4 +13,5 @@
 * globalv po1.
 * globalv secret.
 * globalv artop1.
+* globalv amōrèt (attention).
 * globalv ancrage.
