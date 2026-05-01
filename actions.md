@@ -25,6 +25,7 @@
 
 * dessin.
 * débara.
+* grat.
 * kami.
 * muzik.
 * pense.
