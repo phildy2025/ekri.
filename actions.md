@@ -66,7 +66,8 @@
 ## war z.
 
 * diablot1.
-* la po1 sur la i.
+* k1.
+* ki.
 * une_calomni_ki.
 
 ## amour.
