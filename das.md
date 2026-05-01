@@ -31,6 +31,7 @@
 * mon ami.
 * à plutar.
 * ok.
+* oui je veux bien.
 
 ## émotions.
 
@@ -38,7 +39,6 @@
 * ça va ?
 * ça va bien.
 * ça va moyen.
-* je veux bien.
 * merci.
 * nan.
 * non.
