@@ -4,7 +4,8 @@
 
 * [•••] ➡️ ékri.
 * j'espère tu va bien.
-* présent.
+* ya quelqu'un ?
+* oui présent.
 
 ## malentendu.
 
@@ -14,6 +15,7 @@
 * je ne sais pas quoi dire.
 * pitié.
 * stop.
+* trop.
 * attention.
 * occupé.
 
