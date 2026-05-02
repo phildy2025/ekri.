@@ -44,6 +44,8 @@
 
 ## seul.
 
+* je m'appelle [•••].
+* ka k1.
 * plutar.
 * put.
 * té.
