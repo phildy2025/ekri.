@@ -36,6 +36,7 @@
 * merci.
 * merci mon ami.
 * mon ami.
+* plutar.
 * à plutar.
 * ok.
 * oui je veux bien.
