@@ -28,7 +28,7 @@
 * dessin.
 * débara.
 * grat.
-* ka.
+* kami.
 * muzik.
 * pense.
 * put.
@@ -61,7 +61,7 @@
 * dentroa.
 * denounce.
 * fire song.
-* ka.
+* kami.
 * landmark.
 * méfiance.
 * zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
