@@ -41,6 +41,12 @@
 * ok.
 * oui je veux bien.
 
+## seul.
+
+* plutar.
+* put.
+* té.
+
 ## émotions.
 
 * ça va ?
