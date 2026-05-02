@@ -30,7 +30,9 @@
 * je va.
 * je va [•••].
 * je va [•••] plutar.
+* je va partir ou je va sortir.
 * merci.
+* merci mon ami.
 * mon ami.
 * à plutar.
 * ok.
@@ -43,4 +45,6 @@
 * ça va merci.
 * ça va moyen.
 * nan.
+* nan merci.
 * non.
+* non merci.
