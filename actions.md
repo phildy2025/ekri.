@@ -69,7 +69,7 @@
 ## war z.
 
 * diablot1.
-* k1 (attention).
+* ka k1.
 * ki.
 * une_calomni_ki.
 
