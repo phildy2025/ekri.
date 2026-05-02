@@ -49,6 +49,7 @@
 * plutar.
 * put.
 * té.
+* oops.
 
 ## émotions.
 
