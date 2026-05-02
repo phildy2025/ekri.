@@ -6,7 +6,7 @@
 * j'espère tu va bien.
 * j'espère vous va bien.
 * ya quelqu'un ?
-* nanana
+* nanana.
 * oui présent.
 
 ## malentendu.
