@@ -9,7 +9,7 @@
 
 ## malentendu.
 
-* commment ?
+* comment ?
 * désolé.
 * j'arrive.
 * je ne sais pas quoi dire.
