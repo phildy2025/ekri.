@@ -5,6 +5,7 @@
 * [•••] ➡️ ékri.
 * j'espère tu va bien.
 * ya quelqu'un ?
+* nanana
 * oui présent.
 
 ## malentendu.
@@ -30,7 +31,8 @@
 * je va.
 * je va [•••].
 * je va [•••] plutar.
-* je va partir ou je va sortir.
+* je va partir.
+* je va sortir.
 * merci.
 * merci mon ami.
 * mon ami.
