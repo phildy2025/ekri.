@@ -38,6 +38,7 @@
 * merci mon ami.
 * mon ami.
 * plutar.
+* tu va bien ?
 * vous va bien ?
 * à plutar.
 * ok.
