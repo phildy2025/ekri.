@@ -3,6 +3,7 @@
 * globalv bêtise.
 * globalv calomni.
 * globalv comparer.
+* globalv devoirs.
 * globalv frizjo1.
 * globalv frizjōr.
 * globalv fiesta.
