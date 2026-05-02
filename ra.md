@@ -9,6 +9,7 @@
 ## vie.
 
 * je peux lire mais je peux lirevite.
+* je peux mange mais je peux mangevite.
 * je peux marche mais je peux marchevite.
 * je ne dois pas comparer.
 * je ne dois pas cunnilingus.
