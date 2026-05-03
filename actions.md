@@ -70,7 +70,6 @@
 
 ## war z.
 
-* diablot1.
 * ka k1.
 * t1.
 * une_calomni_passé_ki.
