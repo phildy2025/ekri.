@@ -43,6 +43,7 @@
 
 * dodo.
 * landmark.
+* moa.
 * po1.
 * reau.
 * toalèt.
