@@ -41,7 +41,9 @@
 * mon ami.
 * plutar.
 * tu va bien ?
+* tu viens plutar ?
 * vous va bien ?
+* vous venez plutar ?
 * à plutar.
 * ok.
 * oui je veux bien.
