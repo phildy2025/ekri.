@@ -72,9 +72,8 @@
 
 * diablot1.
 * ka k1.
-* ki.
-* èlèla.
-* une_calomni_ki.
+* t1.
+* une_calomni_passé_ki.
 
 ## amour.
 
