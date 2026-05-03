@@ -3,6 +3,7 @@
 ## configuration.
 
 * [•••] ➡️ ékri.
+* [•••] ?
 * j'espère tu va bien.
 * j'espère vous va bien.
 * ya quelqu'un ?
@@ -23,7 +24,6 @@
 
 ## vie.
 
-* [•••] ?
 * bzz.
 * bonjour.
 * èckuzmoa.
@@ -36,6 +36,7 @@
 * je va partir.
 * je va sortir.
 * merci.
+* merci tous.
 * mon ami.
 * plutar.
 * tu va bien ?
