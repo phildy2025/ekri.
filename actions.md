@@ -25,6 +25,7 @@
 
 ## puts.
 
+* 1pulciôvie.
 * dessin.
 * débara.
 * grat.
@@ -35,6 +36,7 @@
 * serrure.
 * afèr.
 * espoir.
+* èkc.
 * ifo.
 
 ## santé.
