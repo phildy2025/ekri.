@@ -36,8 +36,6 @@
 * je va partir.
 * je va sortir.
 * merci.
-* merci mon ami.
-* merci à vous.
 * mon ami.
 * plutar.
 * tu va bien ?
