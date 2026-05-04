@@ -1,4 +1,4 @@
 # itèms.
 
-* itèm fêyakatr.
-* itèm fêyanêf.
+* ya le itèm = itèm fêyakatr.
+* ya le itèm = itèm fêyanêf.
