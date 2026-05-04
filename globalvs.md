@@ -1,8 +1,8 @@
 # globalvs.
 
-* globalv bêtise.
-* globalv calomni.
-* globalv comparer.
+* ya la globalv = globalv bêtise.
+* ya la globalv = globalv calomni.
+* ya la globalv = globalv comparer.
 * globalv devoirs.
 * globalv frizjo1.
 * globalv frizjōr.
